@@ -36,8 +36,8 @@ A local simulator and visualizer for the four Bell states (maximum entanglement 
 
 I'm always open to discussing code, quantum physics, or collaboration opportunities!
 
-- **LinkedIn:** [Alejandro Cardiel Santos](https://linkedin.com/in/your-profile)
-- **Email:** [alejandrocardielesp60@gmail.com](mailto:your.email@example.com)
+- **LinkedIn:** [Alejandro Cardiel Santos](https://linkedin.com/in/alejandrocardiel)
+- **Email:** [alejandrocardielesp60@gmail.com](mailto:alejandrocardielesp60@gmail.com)
 
 --
 <!--
