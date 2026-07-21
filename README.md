@@ -18,19 +18,19 @@
 ## 🛠️ Tech Stack
 
 **Quantum**  
-![Qiskit](https://img.shields.io/badge/Qiskit-1.x-6929C4?logo=ibm)
+![Qiskit](https://img.shields.io/badge/Qiskit-2.x-6929C4?logo=ibm)
 ![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-Hardware-052FAD?logo=ibm)
 
 **Data & ML**  
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-GCP-4285F4?logo=googlecloud&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
 
 <!-- Comentario -->
 
 **DevOps**  
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Certifications**  
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(2026)-FF9900?logo=amazonaws)
@@ -84,9 +84,8 @@ I'm always open to discussing code, quantum physics, or collaboration opportunit
 
 ## 🔭 Currently working on
 
-- 📐 MSc Quantum Computing (UNIR) — *Physical Implementation of a Quantum Processor*
+- 📐 MSc Quantum Computing (UNIR) 
 - ⚛️ IBM Quantum Developer certification (C1000-179) 
-
   <!-- - 🧪 Extracurricular research @ CIEMAT LNF — ML on TJ-II stellarator plasma data -->
 - 📁 Building this quantum portfolio — 10 projects in Qiskit
 
