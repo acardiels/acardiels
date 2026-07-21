@@ -26,6 +26,8 @@
 ![SQL](https://img.shields.io/badge/SQL-GCP-4285F4?logo=googlecloud&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
 
+<!-- Comentario -->
+
 **DevOps**  
 ![Git](https://img.shields.io/badge/Git-Advanced-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker&logoColor=white)
@@ -42,10 +44,10 @@ A series of 10 progressively complex projects implemented in Qiskit on IBM Quant
 
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
-| 01 | [Bell State Generator](./link) | Entanglement · Superposition · H+CNOT | ✅ Done |
-| 02 | [Quantum Teleportation](./link) | EPR pairs · Classical correction | ✅ Done |
-| 03 | [Superdense Coding](./link) | 2 bits via 1 qubit · Bell basis | ✅ Done |
-| 04 | [Deutsch-Jozsa Algorithm](./link) | Oracles · Quantum speedup | 🔄 In progress |
+| 01 | [Bell State Generator](./link) | Entanglement · Superposition · H+CNOT | 🔄 In progress |
+| 02 | [Quantum Teleportation](./link) | EPR pairs · Classical correction | ⏳ Planned |
+| 03 | [Superdense Coding](./link) | 2 bits via 1 qubit · Bell basis | ⏳ Planned |
+| 04 | [Deutsch-Jozsa Algorithm](./link) | Oracles · Quantum speedup | ⏳ Planned |
 | 05 | [Grover's Search](./link) | Amplitude amplification | ⏳ Planned |
 | 06 | [QFT](./link) | Quantum Fourier Transform | ⏳ Planned |
 | 07 | [VQE](./link) | Variational · H₂ ground state | ⏳ Planned |
@@ -68,14 +70,15 @@ I'm always open to discussing code, quantum physics, or collaboration opportunit
 - **MSc Quantum Computing** · UNIR (2025–2027) · Specialisation: QML, VQE/QAOA, quantum simulation
 - **BSc Physics** · University of Valladolid (2020–2025)  
   Thesis: *Radiative transport of Argon X-ray spectra in cylindrical implosions (ICF)* · Grade: Notable (8/10)
-- **Extracurricular research** · CIEMAT LNF (Oct 2026 – Feb 2027) · ML applied to TJ-II plasma data
+
+<!-- - **Extracurricular research** · CIEMAT LNF (Oct 2026 – Feb 2027) · ML applied to TJ-II plasma data -->
 
 --
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandrocardiel&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocardiel&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acardiels&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acardiels&layout=compact&theme=dark&hide_border=true)
 
 --
 
@@ -83,7 +86,8 @@ I'm always open to discussing code, quantum physics, or collaboration opportunit
 
 - 📐 MSc Quantum Computing (UNIR) — *Physical Implementation of a Quantum Processor*
 - ⚛️ IBM Quantum Developer certification (C1000-179) 
-- 🧪 Extracurricular research @ CIEMAT LNF — ML on TJ-II stellarator plasma data
+
+  <!-- - 🧪 Extracurricular research @ CIEMAT LNF — ML on TJ-II stellarator plasma data -->
 - 📁 Building this quantum portfolio — 10 projects in Qiskit
 
 --
