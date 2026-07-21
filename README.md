@@ -70,10 +70,9 @@ I'm always open to discussing code, quantum physics, or collaboration opportunit
 - **MSc Quantum Computing** · UNIR (2025–2027) · Specialisation: QML, VQE/QAOA, quantum simulation
 - **BSc Physics** · University of Valladolid (2020–2025)  
   Thesis: *Radiative transport of Argon X-ray spectra in cylindrical implosions (ICF)* · Grade: Notable (8/10)
-
-<!-- - **Extracurricular research** · CIEMAT LNF (Oct 2026 – Feb 2027) · ML applied to TJ-II plasma data -->
-
 --
+<!-- - **Extracurricular research** · CIEMAT LNF (Oct 2026 – Feb 2027) · ML applied to TJ-II plasma data -->
+<!-- --
 
 ## 📊 GitHub Activity
 
@@ -82,8 +81,9 @@ I'm always open to discussing code, quantum physics, or collaboration opportunit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acardiels&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
---
+-- -->
 
+--
 ## 🔭 Currently working on
 
 - 📐 MSc Quantum Computing (UNIR) 
